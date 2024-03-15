@@ -10,11 +10,6 @@ The objective of this repository is to discover the features that Git, Github, G
 - Copying repositories
 - Explore version control with a simple HTML website
 
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
 ## Documentation
 
 This course is not a deep dive into git and it functionalities and features, for a deep dive you can reference to the documentation listed bellow:
@@ -52,9 +47,6 @@ Install git in a MacOS machine.
 brew install git
 ```
 [for more download options in MacOS](https://git-scm.com/download/mac)
-
-## Development
-
 
 ## License
 
