@@ -34,7 +34,6 @@ p:hover {
 p:hover::after {
   position: absolute;
   content: url(./img/edit-icon.svg);
-  width: 40px;
   bottom: 0;
   right: 0;
 }
